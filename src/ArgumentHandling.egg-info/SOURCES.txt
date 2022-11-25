@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+src/ArgumentHandling/ArgumentHandling.py
+src/ArgumentHandling.egg-info/PKG-INFO
+src/ArgumentHandling.egg-info/SOURCES.txt
+src/ArgumentHandling.egg-info/dependency_links.txt
+src/ArgumentHandling.egg-info/top_level.txt

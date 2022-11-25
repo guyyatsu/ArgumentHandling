@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ArgumentHandling"
+version = "0.0.1"
+authors = [
+  { name="Hunter Dale", email="hunter@guyyatsu.me" },
+]
+description = "A simple class for abstracting away argparse boilerplate."
+readme = "readme.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Linux",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/guyyatsu/ArgumentHandling"
+"Bug Tracker" = "https://github.com/guyyatsu/ArgumentHandling/issues"
